@@ -1,33 +1,34 @@
-var colorsArray : {
-    colors=[
+var colorsArray = {
+    colors:[
         {
             "name":"green",
-            "red":"64",
-            "green":"175",
-            "blue":"63",
+            "red":"0",
+            "green":"255",
+            "blue":"0",
         },
         {
             "name":"yellow",
-            "red":"239",
-            "green":"183",
-            "blue":"62"
+            "red":"255",
+            "green":"255",
+            "blue":"0"
         },
         {
             name:"red",
-            red:"192",
-            green:"46",
-            blue:"35"
-        }
+            red:"255",
+            green:"0",
+            blue:"0"
+        },
         {
             "name":"blue",
-            "red":"19",
-            "green":"71",
-            "blue":"144",
+            "red":"0",
+            "green":"0",
+            "blue":"255",
         },
         {
-            "name"="orange",
-            "red"="253",
-            "green"="92",
-            "blue"="48"
+            "name":"orange",
+            "red":"255",
+            "green":"100",
+            "blue":"0"
         },
     ]
+}
